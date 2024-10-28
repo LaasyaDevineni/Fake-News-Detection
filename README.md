@@ -4,9 +4,9 @@ This project aims to create a machine learning model to detect fake news article
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
-- [Results and Findings](#results-and-findings)
+- Project Overview
+- Project Structure
+- Results and Findings
 
 ---
 
