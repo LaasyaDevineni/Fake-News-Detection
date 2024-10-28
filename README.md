@@ -27,17 +27,17 @@ This project is ideal for gaining insights into both the model’s performance a
 
 Each notebook and file is organized sequentially to provide a step-by-step process of the project. 
 
-1. [Dataset Overview](01_Dataset_Overview.ipynb): Initial exploration of the dataset.
-2. [Data Cleaning](02_Cleaning_Dataset.ipynb): Removing noise and standardizing text data.
-3. [Keyword Detection](03_Detect_Keywords.ipynb): Extracting relevant keywords for analysis.
-4. [Text Title Analysis](04_Text_Title_Analysis.ipynb): Analyzing the text titles of articles.
-5. [Sensationalism Detection](05_Detecting_Sensationalism.ipynb): Identifying sensationalism in text.
-6. [Emotion Analysis](06_Analyze_Emotions.ipynb): Analyzing emotions within the text.
-7. [Feature Engineering](07_Feature_Engineering.ipynb): Creating features for machine learning models.
-8. [Logistic Regression Model](08_Logistic_Regression.ipynb): Training a logistic regression classifier.
-9. [Random Forest Model](09_Random_forest.ipynb): Training a Random Forest model for better accuracy.
-10. [Confusion Matrix](10_Confusion_matrix.ipynb): Visualizing model performance with a confusion matrix.
-11. [Fairness Audit](11_Fairness_Audit.ipynb): Performing a fairness audit to evaluate model bias.
+1. Dataset Overview: Initial exploration of the dataset.
+2. Data Cleaning: Removing noise and standardizing text data.
+3. Keyword Detection: Extracting relevant keywords for analysis.
+4. Text Title Analysis: Analyzing the text titles of articles.
+5. Sensationalism Detection](05_Detecting_Sensationalism.ipynb): Identifying sensationalism in text.
+6. Emotion Analysis: Analyzing emotions within the text.
+7. Feature Engineering: Creating features for machine learning models.
+8. Logistic Regression Model: Training a logistic regression classifier.
+9. Random Forest Model: Training a Random Forest model for better accuracy.
+10. Confusion Matrix: Visualizing model performance with a confusion matrix.
+11. Fairness Audit: Performing a fairness audit to evaluate model bias.
 
 Other supporting files include:
 - **cleaned_dataset.csv**: Processed dataset ready for model training.
